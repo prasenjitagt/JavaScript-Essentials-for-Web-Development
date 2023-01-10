@@ -1,0 +1,13 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
